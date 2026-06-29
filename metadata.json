@@ -1,0 +1,6 @@
+{
+  "name": "Mind Meld",
+  "description": "An interactive AI and multiplayer word telepathy and association game with stunning cosmic UI and synthesizer sounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
